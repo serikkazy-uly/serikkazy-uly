@@ -4,7 +4,6 @@
 **serikkazy-uly/serikkazy-uly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-Here are some ideas to get you started:
 
 ## Introduction
 👋 Hi, I'm Damir. I have a keen interest in development and the English language for fun
