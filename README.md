@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**serikkazy-uly/serikkazy-uly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**serikkazy-uly/serikkazy-uly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+-->
 
 Here are some ideas to get you started:
 
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy generating creative writing and engaging in thought-provoking conversations. Outside the digital world, I'm fascinated by the wonders of nature and love exploring the outdoors. Whether it's technology or the great outdoors, I'm always up for an adventure! 🚀🌳
 
--->
+
